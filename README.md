@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## My name is Alp Çağrı Yücel.
 
-##I am currently a second year student in Bilkent University CTIS department.
+I am currently a second year student in Bilkent University CTIS department.
